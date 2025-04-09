@@ -35,7 +35,7 @@ This project allows you to interact dynamically with your SQL database using a c
      ```
 
 ## Screenshot
-![Chat with SQL DB Chat Bot Screenshot](screenshot\screenshot.png)
+![Chat with SQL DB Chat Bot Screenshot](screenshot/screenshot.png)
 
 
 ## Usage
